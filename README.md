@@ -71,7 +71,8 @@ Stock_TimeSeries_Project/
 ![Screenshot 2025-06-11 230914](https://github.com/user-attachments/assets/cbd5bbbd-0d13-4238-b9f2-31c18f39918d)
 ![Screenshot 2025-06-11 230904](https://github.com/user-attachments/assets/a2f2a547-2275-4630-9869-ac8ab226b6bd)
 
-
+DEMO:
+https://www.loom.com/share/7d7a783492e74d8b95f5659f1c0e7c0d?sid=e6d3f200-3534-41dd-8181-819ed1503837
 
 ---
 
