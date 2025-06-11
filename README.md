@@ -66,8 +66,9 @@ Stock_TimeSeries_Project/
 
 ## 📷 Screenshots
 
-> *(Add 2–3 screenshots of your Streamlit app here)*  
-> One of the dropdown, one of the forecast, and one with seasonality components.
+![Screenshot 2025-06-11 230759](https://github.com/user-attachments/assets/bfa31eae-7bf4-45c3-a344-0a4fcb2c4270)
+![Screenshot 2025-06-11 230846](https://github.com/user-attachments/assets/4602ce82-f44e-456c-ba24-26de472a3b9d)
+
 
 ---
 
@@ -82,11 +83,8 @@ Install dependencies:
 pip install -r requirements.txt
 
 Run the app:
-
-bash
-Copy
-Edit
 streamlit run app/stock_forecast_app.py
+
 ✅ Key Takeaways
 Strong understanding of time series concepts (trend, seasonality, residuals)
 
